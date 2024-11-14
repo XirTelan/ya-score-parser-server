@@ -1,3 +1,5 @@
+Клиент - https://github.com/XirTelan/ya-score-parser
+
 # Server
 ## Стек
 fastify
